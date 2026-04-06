@@ -4,5 +4,5 @@ This scrip update and upgrades the termux packages Then Install Tool Like Python
 # Setps To Install
 
 ```bash
-git clone && bash Termux-Master-Setup-Script
+git clone https://github.com/sameenataj427-collab/Termux-master-Setup-Script.git && bash Termux-Master-Setup-Script
 ```
