@@ -1,16 +1,9 @@
 # Termux-master-Setup-Script
 This scrip update and upgrades the termux packages Then Install Tool Like Python , Libusb , Curl , Git , Mitool , Etc Needed For Android Flashing
 
-# Setps To Install
+# Installation
 
-# Download the file
 ```bash
-git clone https://github.com/sameenataj427-collab/Termux-Master-Setup-Script.git
+curl -L https://raw.githubusercontent.com/sameenataj427-collab/Termux-Master-Setup-Script/main/Termux-Master-Setup-Script -o setup && chmod +x setup && ./setup
 ```
-# run the file
-```bash
-cd Termux-Master-Setup-Script
-```
-```bash
-bash Termux-Master-Setup-Script
-```
+For any suggestions contact at sameenataj427@gmail.com. thank you
