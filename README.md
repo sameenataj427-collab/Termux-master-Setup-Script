@@ -1,5 +1,5 @@
 # Termux-master-Setup-Script
-This scrip update and upgrades the termux packages Then Install Tool Like Python , Libusb , Curl , Git , Mitool , Etc Needed For Android Flashing
+This scrip update and upgrades the termux packages Then Install Tool Like Python , Libusb , Curl , termux-fastboot , termux-adb , Mitool , Etc Needed For Android Flashing
 
 # Installation
 
