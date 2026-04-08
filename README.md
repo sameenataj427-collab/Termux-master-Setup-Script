@@ -4,6 +4,7 @@ This scrip update and upgrades the termux packages Then Install Tool Like Python
 # Installation
 
 ```bash
-curl -L https://raw.githubusercontent.com/sameenataj427-collab/Termux-Master-Setup-Script/main/Termux-Master-Setup-Script -o setup && chmod +x setup && ./setup
+curl -L https://raw.githubusercontent.com/sameenataj427-collab/Termux-Master-Setup-Script/main/Termux-Master-Setup-Script -o setup && chmod +x setup && ./setup && rm setup
+
 ```
 For any suggestions contact at sameenataj427@gmail.com. thank you
